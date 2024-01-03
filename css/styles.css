@@ -4,11 +4,43 @@ body{
     color: #434455;
 }
 
-.menu-list{
-    
+.page-title{
+    color: var(--WHITE, #1d1b1b);
+    text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 1.12px;
+
 }
 
-.address-link{
-   
+h2{
+    color: #2E2F42;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.1; 
+letter-spacing: 0.72px;
+text-transform: capitalize;
+
 }
+
+h3{
+    color:#2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2; /* 120% */
+letter-spacing: 0.4px;
+}
+
+p{
+    color: #434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5; /* 150% */
+letter-spacing: 0.32px;
+}
+
+
+
 
