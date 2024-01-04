@@ -37,7 +37,7 @@ text-transform: uppercase;
 }
 
 .nav-menu-list{
-    color: #2E2F42;
+    color: #2e2f42;
 font-size: 16px;
 font-weight: 500;
 line-height: 1.5; /* 150% */
@@ -74,9 +74,9 @@ letter-spacing: 0.32px;
     letter-spacing: 0.04em;
     color: #ffffff;
 }
-.btn:hover,
-.btn:focus{
-    color: 404BBF;
+.button:hover,
+.button:focus{
+    color: #404BBF;
 }
 
 button{
@@ -95,6 +95,14 @@ line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 
+}
+
+.title-about{
+    color:#2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2; /* 120% */
+letter-spacing: 0.4px;
 }
 
 .title-h3{
@@ -158,4 +166,8 @@ text-transform: capitalize;
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.list-our-team{
+    background-color: #ffffff;
 }
