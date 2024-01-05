@@ -44,6 +44,14 @@ line-height: 1.5; /* 150% */
 letter-spacing: 0.32px;
 }
 
+.list{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .nav-menu-list .list:hover,
 .nav-menu-list .list:focus{
     color: #404BBF;
@@ -66,7 +74,7 @@ letter-spacing: 0.32px;
     color: #404BBF;
 }
 
-.btn{
+.btn {
     font-family:"Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -74,9 +82,9 @@ letter-spacing: 0.32px;
     letter-spacing: 0.04em;
     color: #ffffff;
 }
-.button:hover,
-.button:focus{
-    color: #404BBF;
+.btn:hover,
+.btn:focus {
+    background-color: #404BBF;
 }
 
 button{
@@ -168,6 +176,6 @@ text-transform: capitalize;
     letter-spacing: 0.02em;
 }
 
-.list-our-team{
+.list-our-team {
     background-color: #FFFFFF;
 }
